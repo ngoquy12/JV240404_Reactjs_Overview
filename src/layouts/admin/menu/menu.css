@@ -1,0 +1,5 @@
+.admin-menu {
+  width: 300px;
+  background-color: red;
+  height: calc(100vh - 56px);
+}

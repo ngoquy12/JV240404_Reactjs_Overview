@@ -1,0 +1,6 @@
+.admin-dashboard {
+  width: 100%;
+  background-color: #fff;
+  margin-bottom: 12px;
+  height: calc(100vh - 172px);
+}

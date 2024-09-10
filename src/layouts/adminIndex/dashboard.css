@@ -1,0 +1,9 @@
+.main-content {
+  display: flex;
+}
+
+.wrapper {
+  background-color: aqua;
+  width: 100%;
+  padding: 24px;
+}
